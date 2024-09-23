@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.card{
+    width: 430px;
+    height:932px;
+    background:white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 10px;
+}
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 15px;
+}
+h2{
+    color: #910000;
+    margin: 20px 20px;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.preco{
+    width: 102px;
+    height: 36px;
+    margin: 20px 20px;
+    flex-shrink: 0;
+    color: black;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.descricao{
+    width: 300px;
+    height: 300px;
+    border-radius: 8px;
+    margin: 20px 20px;
+    flex-shrink: 0;
+    color: black;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}

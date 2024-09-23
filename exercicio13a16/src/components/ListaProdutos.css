@@ -1,0 +1,10 @@
+input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .lista-produtos {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
